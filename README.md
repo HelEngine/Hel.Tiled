@@ -19,8 +19,10 @@
   <p align="center">
     Wrapper for utilizing Tiled maps in C#. Created for the Hel Engine.
     <br />
-    <a href="https://github.com/HelEngine/Hel.Tiled"><strong>Explore the docs »</strong></a>
+    <a href="https://helengine.github.io/Hel.Docsify/#/"><strong>Explore the docs »</strong></a>
     <br />
+    <a href="https://helengine.github.io/Hel.Tiled/">API Reference</a>
+    .
     <a href="https://www.mapeditor.org/">Tiled</a>
     ·
     <a href="https://github.com/HelEngine/Hel.Tiled/issues">Report Bug</a>
@@ -35,16 +37,13 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
@@ -72,7 +71,7 @@ Add [Hel.Tiled](https://www.nuget.org/packages/Hel.Tiled/) to your project, or b
 
 ## Usage
 
-[Full release documentation](https://grimmzlytm.github.io/Hel/hel-tiled/Hel.Tiled.html)
+[Full release documentation](https://helengine.github.io/Hel.Tiled/)
 
 Usage depends on if this library is being used on its own or through Hel.Engine.
 
