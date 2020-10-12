@@ -1,0 +1,632 @@
+{
+  "homepages": [],
+  "source_base_path": "/github/workspace/docfx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Loader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Loader.html",
+          "hash": "UR37F9tjsagM67mcRgfpfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Enums.GridOrientationEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Enums.GridOrientationEnum.html",
+          "hash": "3hq2dS6rBQyfxwwbtuq5Dw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Enums.Layer.LayerCompressionEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Enums.Layer.LayerCompressionEnum.html",
+          "hash": "dgoidiATHpulAmkRK47oNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Enums.Layer.LayerDrawOrderEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Enums.Layer.LayerDrawOrderEnum.html",
+          "hash": "qWNJfMfjbXM2kwS+EfAzpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Enums.Layer.LayerEncodingEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Enums.Layer.LayerEncodingEnum.html",
+          "hash": "cuvp7k0d8FLggCpAHsijfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Enums.Layer.LayerTypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Enums.Layer.LayerTypeEnum.html",
+          "hash": "XW9LwLmtoZu158crAdEjGw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Enums.Layer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Enums.Layer.html",
+          "hash": "UB8fQ42PWtyOFz7JHUJxDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Enums.Object.HAlignEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Enums.Object.HAlignEnum.html",
+          "hash": "nAk18ChWg8n2j+Q/rRzSCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Enums.Object.ObjectTypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Enums.Object.ObjectTypeEnum.html",
+          "hash": "iBQHAlW5m/1K/SQmn5Ix3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Enums.Object.VAlignEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Enums.Object.VAlignEnum.html",
+          "hash": "aNK4r+DBKS2TdFAbQ13OrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Enums.Object.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Enums.Object.html",
+          "hash": "AnQLa+GVQSZEPHgnsjT8Qw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Enums.Tilemap.TilemapOrientationEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Enums.Tilemap.TilemapOrientationEnum.html",
+          "hash": "dmAPzYvm45rZM4GL9uy83A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Enums.Tilemap.TilemapRenderOrderEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Enums.Tilemap.TilemapRenderOrderEnum.html",
+          "hash": "3IwKmqrqhPHYCW+uERXc3w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Enums.Tilemap.TilemapStaggerAxisEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Enums.Tilemap.TilemapStaggerAxisEnum.html",
+          "hash": "cxQpfSmazIKRLttrdz9zAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Enums.Tilemap.TilemapStaggerIndexEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Enums.Tilemap.TilemapStaggerIndexEnum.html",
+          "hash": "nxm6neRIk0xmVmMOkdSVRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Enums.Tilemap.TilemapTypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Enums.Tilemap.TilemapTypeEnum.html",
+          "hash": "PnF7RU6cIUePQbe8uyjsCw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Enums.Tilemap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Enums.Tilemap.html",
+          "hash": "eWt6ONXn94ztxltaub+2iw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Enums.TilesetObjectAlignmentEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Enums.TilesetObjectAlignmentEnum.html",
+          "hash": "trqo8TDzWMkU6D9eirO3mQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Enums.html",
+          "hash": "zVU72lza6Oh5NwsMe8M23w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Layers.Chunk.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Layers.Chunk.html",
+          "hash": "nrdqaCQjmsrp6UVZyy2DeQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Layers.Layer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Layers.Layer.html",
+          "hash": "dJ86WThN9sdaXlduoroiCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Layers.Objects.Object.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Layers.Objects.Object.html",
+          "hash": "o6/wkyrqo5a6Ug+iSRP38g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Layers.Objects.Point.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Layers.Objects.Point.html",
+          "hash": "cNJnyidnvPGtqPnhNSpJOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Layers.Objects.TextObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Layers.Objects.TextObject.html",
+          "hash": "1gtLyGFclwUOt6TtjDRq2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Layers.Objects.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Layers.Objects.html",
+          "hash": "rhOyWrQ9rNWBhfyo8hhi9A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Layers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Layers.html",
+          "hash": "HkISiVkIH+gmX75T2cmpyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Property.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Property.html",
+          "hash": "z6eQoSna3kvM1qcv+Aifcw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Template.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Template.html",
+          "hash": "ZFdBzyqmofBhXWMJWjLVfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Tilemap.Tilemap.TilesetInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Tilemap.Tilemap.TilesetInfo.html",
+          "hash": "dPEgliQnexkhT6LxpOsduQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Tilemap.Tilemap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Tilemap.Tilemap.html",
+          "hash": "IvBV2oiPleH0cfA+GK9wdw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Tilemap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Tilemap.html",
+          "hash": "nSSoTzXzVxlK6N/uklQTww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Tileset.Grid.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Grid.html",
+          "hash": "zJ1mo1iqlToYKK66CO63oA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Tileset.Tiles.Frame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Tiles.Frame.html",
+          "hash": "U69dcLtmSuVROhXsvRfN6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Tileset.Tiles.Terrain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Tiles.Terrain.html",
+          "hash": "hjP9NQTXNltUGGvLW6AGtw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Tileset.Tiles.Tile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Tiles.Tile.html",
+          "hash": "3y92YPnXZjBmEnMxmaNa6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Tileset.Tiles.TileOffset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Tiles.TileOffset.html",
+          "hash": "z0qzT88s2JVjlx3wFovpgg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Tileset.Tiles.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Tiles.html",
+          "hash": "7JCZzK9DLrESr0MDMWSY+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Tileset.Tileset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Tileset.html",
+          "hash": "TgbvSkIojYTCvEroefLgig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Tileset.Wang.WangColor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Wang.WangColor.html",
+          "hash": "s+0MjjOAsO1rPiXZR5W1SA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Tileset.Wang.WangSet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Wang.WangSet.html",
+          "hash": "DXklUbcHBgtgfK49q5cnQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Tileset.Wang.WangTile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Wang.WangTile.html",
+          "hash": "8AlbGOPAekJUvIcPtudU+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Tileset.Wang.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Wang.html",
+          "hash": "v7UK/cSk5nzGWJ9KZNuDzg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.Tileset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.Tileset.html",
+          "hash": "KKGuR+YhIq0FF2CzOfHuKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Models.html",
+          "hash": "wzqJuuLEYTakaghEKeTkkA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.html",
+          "hash": "wd4XvlelP2PTquqfCkeK+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "hel-api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/toc.html",
+          "hash": "sA3Iy9utoybl6iZsGU9AAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "mHKovVWCL4EoNjJHSYasbA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "YjQpzhFfYJ06PfR0aokxyw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 1,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 45,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
