@@ -12,7 +12,6 @@ namespace Hel.Tiled
     /// </summary>
     public static class Loader
     {
-
         /// <summary>
         /// Load and structure a tileset that is not associated with a tilemap.
         /// </summary>
