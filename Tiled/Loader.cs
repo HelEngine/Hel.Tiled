@@ -42,9 +42,13 @@ namespace Hel.Tiled
             var tilemap = LoadGeneric<Tilemap>(path);
             tilemap.Tilesets = tilemap.Tilesets.OrderBy(tileset => tileset.FirstGid).ToList();
             
+            var prefix = 
+                // Monogame pipeline prefix -> CONTENT
+                path.StartsWith("Content") ? $@"Content/{path}" : "";
+            
             foreach (var tileset in tilemap.Tilesets)
             {
-                var loadedTileset = LoadGeneric<Tileset>(tileset.Source);
+                var loadedTileset = LoadGeneric<Tileset>(prefix +  tileset.Source);
                 tileset.Tileset = loadedTileset;
                 tileset.Tileset.TileRectangles = tileset.Tileset.CalculateTileRectangles();
             }
