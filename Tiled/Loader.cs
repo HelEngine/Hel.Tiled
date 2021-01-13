@@ -12,7 +12,6 @@ namespace Hel.Tiled
     /// </summary>
     public static class Loader
     {
-
         /// <summary>
         /// Load and structure a tileset that is not associated with a tilemap.
         /// </summary>
@@ -43,9 +42,13 @@ namespace Hel.Tiled
             var tilemap = LoadGeneric<Tilemap>(path);
             tilemap.Tilesets = tilemap.Tilesets.OrderBy(tileset => tileset.FirstGid).ToList();
             
+            var prefix = 
+                // Monogame pipeline prefix -> CONTENT
+                path.StartsWith("Content") ? $@"Content/{path}" : "";
+            
             foreach (var tileset in tilemap.Tilesets)
             {
-                var loadedTileset = LoadGeneric<Tileset>(tileset.Source);
+                var loadedTileset = LoadGeneric<Tileset>(prefix +  tileset.Source);
                 tileset.Tileset = loadedTileset;
                 tileset.Tileset.TileRectangles = tileset.Tileset.CalculateTileRectangles();
             }
