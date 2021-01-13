@@ -5,11 +5,35 @@
   "files": [
     {
       "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Exceptions.InvalidObjectException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Exceptions.InvalidObjectException.html",
+          "hash": "uof8F9/kX7OpdxyB/Kcveg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Exceptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Exceptions.html",
+          "hash": "Uxnv975TYP9De55IAA0L2Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "hel-api/Hel.Tiled.Loader.yml",
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Loader.html",
-          "hash": "UR37F9tjsagM67mcRgfpfA=="
+          "hash": "qjrNomATurRSi1t5IJSZKg=="
         }
       },
       "is_incremental": false,
@@ -21,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Enums.GridOrientationEnum.html",
-          "hash": "3hq2dS6rBQyfxwwbtuq5Dw=="
+          "hash": "SxHc8BwPfdWR6xB2OEndUw=="
         }
       },
       "is_incremental": false,
@@ -33,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Enums.Layer.LayerCompressionEnum.html",
-          "hash": "dgoidiATHpulAmkRK47oNA=="
+          "hash": "q7+GvNaarrlbk3KNHkFwFA=="
         }
       },
       "is_incremental": false,
@@ -45,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Enums.Layer.LayerDrawOrderEnum.html",
-          "hash": "qWNJfMfjbXM2kwS+EfAzpQ=="
+          "hash": "A5w1cCMbTDKIJOaDUrHhtA=="
         }
       },
       "is_incremental": false,
@@ -57,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Enums.Layer.LayerEncodingEnum.html",
-          "hash": "cuvp7k0d8FLggCpAHsijfQ=="
+          "hash": "uwk7LhnOTXGKV0HqG9gZ0w=="
         }
       },
       "is_incremental": false,
@@ -69,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Enums.Layer.LayerTypeEnum.html",
-          "hash": "XW9LwLmtoZu158crAdEjGw=="
+          "hash": "GTXAhBZnMzbP2wYYeMyW0Q=="
         }
       },
       "is_incremental": false,
@@ -81,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Enums.Layer.html",
-          "hash": "UB8fQ42PWtyOFz7JHUJxDQ=="
+          "hash": "KpiwfZsZwoSpVMvulb2Gcg=="
         }
       },
       "is_incremental": false,
@@ -93,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Enums.Object.HAlignEnum.html",
-          "hash": "nAk18ChWg8n2j+Q/rRzSCA=="
+          "hash": "dd7zxgCC5A76/dkqqYWsGg=="
         }
       },
       "is_incremental": false,
@@ -105,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Enums.Object.ObjectTypeEnum.html",
-          "hash": "iBQHAlW5m/1K/SQmn5Ix3Q=="
+          "hash": "u8kzvEQpYB0qy1PYszTWPA=="
         }
       },
       "is_incremental": false,
@@ -117,7 +141,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Enums.Object.VAlignEnum.html",
-          "hash": "aNK4r+DBKS2TdFAbQ13OrQ=="
+          "hash": "zZjkrh+PFFdLCpJ9t2jbIg=="
         }
       },
       "is_incremental": false,
@@ -129,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Enums.Object.html",
-          "hash": "AnQLa+GVQSZEPHgnsjT8Qw=="
+          "hash": "vOSsBtzyHHEssVBQMKRRrg=="
         }
       },
       "is_incremental": false,
@@ -141,7 +165,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Enums.Tilemap.TilemapOrientationEnum.html",
-          "hash": "dmAPzYvm45rZM4GL9uy83A=="
+          "hash": "mbffQklIsLuovBZOTcSKzg=="
         }
       },
       "is_incremental": false,
@@ -153,7 +177,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Enums.Tilemap.TilemapRenderOrderEnum.html",
-          "hash": "3IwKmqrqhPHYCW+uERXc3w=="
+          "hash": "zz2td8aTe+7fXEJj86Bt1Q=="
         }
       },
       "is_incremental": false,
@@ -165,7 +189,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Enums.Tilemap.TilemapStaggerAxisEnum.html",
-          "hash": "cxQpfSmazIKRLttrdz9zAw=="
+          "hash": "z20dElE6YyoCdYlufNPA4w=="
         }
       },
       "is_incremental": false,
@@ -177,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Enums.Tilemap.TilemapStaggerIndexEnum.html",
-          "hash": "nxm6neRIk0xmVmMOkdSVRw=="
+          "hash": "Sin3aBJkxmp9/6cRYnKUcQ=="
         }
       },
       "is_incremental": false,
@@ -189,7 +213,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Enums.Tilemap.TilemapTypeEnum.html",
-          "hash": "PnF7RU6cIUePQbe8uyjsCw=="
+          "hash": "j0OEZI+K8kltbr+VOipbOg=="
         }
       },
       "is_incremental": false,
@@ -201,7 +225,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Enums.Tilemap.html",
-          "hash": "eWt6ONXn94ztxltaub+2iw=="
+          "hash": "MrUg13/JHKL+oH+Nn0NjNQ=="
         }
       },
       "is_incremental": false,
@@ -213,7 +237,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Enums.TilesetObjectAlignmentEnum.html",
-          "hash": "trqo8TDzWMkU6D9eirO3mQ=="
+          "hash": "DkOZgNZmbbaeWqYl4EPL2w=="
         }
       },
       "is_incremental": false,
@@ -225,7 +249,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Enums.html",
-          "hash": "zVU72lza6Oh5NwsMe8M23w=="
+          "hash": "P120w7VLWkEAp0O3hvPzUw=="
         }
       },
       "is_incremental": false,
@@ -237,7 +261,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Layers.Chunk.html",
-          "hash": "nrdqaCQjmsrp6UVZyy2DeQ=="
+          "hash": "rnQi+/k7IINPMAGqyYr7lg=="
         }
       },
       "is_incremental": false,
@@ -249,7 +273,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Layers.Layer.html",
-          "hash": "dJ86WThN9sdaXlduoroiCA=="
+          "hash": "xDlxA36kOAWPZVvmA8WGuQ=="
         }
       },
       "is_incremental": false,
@@ -261,7 +285,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Layers.Objects.Object.html",
-          "hash": "o6/wkyrqo5a6Ug+iSRP38g=="
+          "hash": "IqVj0SgWJIwpE7vVhuR6Bw=="
         }
       },
       "is_incremental": false,
@@ -273,7 +297,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Layers.Objects.Point.html",
-          "hash": "cNJnyidnvPGtqPnhNSpJOg=="
+          "hash": "D+9j7a2+Pr9ZbDM/DWdlvg=="
         }
       },
       "is_incremental": false,
@@ -285,7 +309,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Layers.Objects.TextObject.html",
-          "hash": "1gtLyGFclwUOt6TtjDRq2A=="
+          "hash": "uMIQ/lb4R0lksDdHD5es1A=="
         }
       },
       "is_incremental": false,
@@ -297,7 +321,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Layers.Objects.html",
-          "hash": "rhOyWrQ9rNWBhfyo8hhi9A=="
+          "hash": "Wm5sE2H78LfP06hb8JhsyQ=="
         }
       },
       "is_incremental": false,
@@ -309,7 +333,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Layers.html",
-          "hash": "HkISiVkIH+gmX75T2cmpyQ=="
+          "hash": "6RzCNTYbNwKxQ6U7Vj0OqQ=="
         }
       },
       "is_incremental": false,
@@ -321,7 +345,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Property.html",
-          "hash": "z6eQoSna3kvM1qcv+Aifcw=="
+          "hash": "z78659jtO26JWyt/YsX5yQ=="
         }
       },
       "is_incremental": false,
@@ -333,7 +357,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Template.html",
-          "hash": "ZFdBzyqmofBhXWMJWjLVfQ=="
+          "hash": "hKHSw+Wto/ZWfAT0RIjxUg=="
         }
       },
       "is_incremental": false,
@@ -345,7 +369,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Tilemap.Tilemap.TilesetInfo.html",
-          "hash": "dPEgliQnexkhT6LxpOsduQ=="
+          "hash": "Pji0t9rHOozQUpWfNU73PA=="
         }
       },
       "is_incremental": false,
@@ -357,7 +381,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Tilemap.Tilemap.html",
-          "hash": "IvBV2oiPleH0cfA+GK9wdw=="
+          "hash": "o0qxL+5I0gLjaQgggkbbkA=="
         }
       },
       "is_incremental": false,
@@ -369,7 +393,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Tilemap.html",
-          "hash": "nSSoTzXzVxlK6N/uklQTww=="
+          "hash": "mJvLKWJvHsffa6kRTw7Rqw=="
         }
       },
       "is_incremental": false,
@@ -381,7 +405,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Grid.html",
-          "hash": "zJ1mo1iqlToYKK66CO63oA=="
+          "hash": "WtssFJSXdQuwN9kAdic+Xg=="
         }
       },
       "is_incremental": false,
@@ -393,7 +417,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Tiles.Frame.html",
-          "hash": "U69dcLtmSuVROhXsvRfN6g=="
+          "hash": "0w7Zst6YxM4ZyBbihTXoCw=="
         }
       },
       "is_incremental": false,
@@ -405,7 +429,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Tiles.Terrain.html",
-          "hash": "hjP9NQTXNltUGGvLW6AGtw=="
+          "hash": "2LuZ8Y51I4rK6qTBPFJHGQ=="
         }
       },
       "is_incremental": false,
@@ -417,7 +441,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Tiles.Tile.html",
-          "hash": "3y92YPnXZjBmEnMxmaNa6w=="
+          "hash": "nZ6gA3en8uM22paE1hnFSw=="
         }
       },
       "is_incremental": false,
@@ -429,7 +453,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Tiles.TileOffset.html",
-          "hash": "z0qzT88s2JVjlx3wFovpgg=="
+          "hash": "wTOBc6EymRuPnp9uaMPBSw=="
         }
       },
       "is_incremental": false,
@@ -441,7 +465,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Tiles.html",
-          "hash": "7JCZzK9DLrESr0MDMWSY+w=="
+          "hash": "P+TVIEDpH0Ic1UTZhvBr5A=="
         }
       },
       "is_incremental": false,
@@ -453,7 +477,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Tileset.html",
-          "hash": "TgbvSkIojYTCvEroefLgig=="
+          "hash": "w1Jn1sTZKFMf3LEUEOs5rA=="
         }
       },
       "is_incremental": false,
@@ -465,7 +489,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Wang.WangColor.html",
-          "hash": "s+0MjjOAsO1rPiXZR5W1SA=="
+          "hash": "gbG45MUDeQOEB6KmJDANsw=="
         }
       },
       "is_incremental": false,
@@ -477,7 +501,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Wang.WangSet.html",
-          "hash": "DXklUbcHBgtgfK49q5cnQQ=="
+          "hash": "lKLYCpAVbu9hCERe+zY11A=="
         }
       },
       "is_incremental": false,
@@ -489,7 +513,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Wang.WangTile.html",
-          "hash": "8AlbGOPAekJUvIcPtudU+A=="
+          "hash": "KLVbqupTPS9cwOjWMQEKJw=="
         }
       },
       "is_incremental": false,
@@ -501,7 +525,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Tileset.Wang.html",
-          "hash": "v7UK/cSk5nzGWJ9KZNuDzg=="
+          "hash": "7E6jVjYLzY0uICwlMkIM0g=="
         }
       },
       "is_incremental": false,
@@ -513,7 +537,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.Tileset.html",
-          "hash": "KKGuR+YhIq0FF2CzOfHuKg=="
+          "hash": "tTkp3GSYd5fynTWh9hm07A=="
         }
       },
       "is_incremental": false,
@@ -525,7 +549,43 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.Models.html",
-          "hash": "wzqJuuLEYTakaghEKeTkkA=="
+          "hash": "QoSWIawihCvNcVn29E+HtA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.TilemapManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.TilemapManager.html",
+          "hash": "ns/K3vCuN0E5S0sf1o0KtQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Utilities.TileHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Utilities.TileHelper.html",
+          "hash": "X0OflzljtFv/8qGrf8wkzQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "hel-api/Hel.Tiled.Utilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "hel-api/Hel.Tiled.Utilities.html",
+          "hash": "l99F+KYaQSZScP8M39dPaA=="
         }
       },
       "is_incremental": false,
@@ -537,7 +597,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/Hel.Tiled.html",
-          "hash": "wd4XvlelP2PTquqfCkeK+w=="
+          "hash": "Ob6Aj8W+BwT2/z6M0MBQcA=="
         }
       },
       "is_incremental": false,
@@ -549,7 +609,7 @@
       "output": {
         ".html": {
           "relative_path": "hel-api/toc.html",
-          "hash": "sA3Iy9utoybl6iZsGU9AAw=="
+          "hash": "xmXaOoH/coajyc4WAV3G2w=="
         }
       },
       "is_incremental": false,
@@ -561,7 +621,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "mHKovVWCL4EoNjJHSYasbA=="
+          "hash": "E9XP44lkJSi4PnuBEV85uw=="
         }
       },
       "is_incremental": false,
@@ -573,7 +633,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "YjQpzhFfYJ06PfR0aokxyw=="
+          "hash": "vQoYZLKLcBIjky1zxs1rLw=="
         }
       },
       "is_incremental": false,
@@ -600,7 +660,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 45,
+          "total_file_count": 50,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
