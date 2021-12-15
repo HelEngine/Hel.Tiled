@@ -25,8 +25,8 @@ namespace Hel.Tiled
         /// <param name="path">The path where the tilemap can be found</param>
         /// <returns>Structured <see cref="Template"/></returns>
         public static Template LoadTemplate(string path) => LoadGeneric<Template>(path);
-        
-        public static T LoadGeneric<T>(string path)
+
+        private static T LoadGeneric<T>(string path)
         {
             var data = File.ReadAllText(path);
             return JsonConvert.DeserializeObject<T>(data);
